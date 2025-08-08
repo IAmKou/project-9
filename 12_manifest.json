@@ -1,0 +1,2382 @@
+[
+  {
+    "_id": "68963047c987f0d9cf660d32",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "8a25036f-883c-45cc-9e0d-ca69e0269146",
+    "originalText": "\t\tQuery    => jpa\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.222Z",
+    "updatedAt": "2025-08-08T17:13:43.222Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d44",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "917b74d2-a3f0-4ae6-8c3b-b720c063ce1a",
+    "originalText": "                              +\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.235Z",
+    "updatedAt": "2025-08-08T17:13:43.235Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d41",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "f2ee5fdb-ed7c-43df-b91d-bdb5a39e8420",
+    "originalText": "                              +DTD\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.233Z",
+    "updatedAt": "2025-08-08T17:13:43.233Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d3e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "135b216b-29e0-406b-8049-66cf401161c3",
+    "originalText": "                              +Tuple\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.232Z",
+    "updatedAt": "2025-08-08T17:13:43.232Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660ccc",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "5c5e1d54-4fb9-4be1-bdba-0c20254dfc27",
+    "originalText": "                        + non primitive thi retun type cua con phai la con cua cha\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.133Z",
+    "updatedAt": "2025-08-08T17:13:43.133Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cbd",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "57b0e444-de77-4779-b3d4-668c633d506e",
+    "originalText": "                   -Autoboxing\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.117Z",
+    "updatedAt": "2025-08-08T17:13:43.117Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d2f",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "36002f33-bd6a-4754-9c4a-b139c7558552",
+    "originalText": "                Query<T> => hibernate\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.220Z",
+    "updatedAt": "2025-08-08T17:13:43.220Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660ced",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "ca2ecf07-82d5-4a73-889a-f1d5ccffbd50",
+    "originalText": "                Tạo thêm pk identity và cho 2 fk là cặp unique\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.159Z",
+    "updatedAt": "2025-08-08T17:13:43.159Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d35",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "14ab9246-3dcf-4440-86e3-98d58383bb97",
+    "originalText": "               2. Thực thi\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.223Z",
+    "updatedAt": "2025-08-08T17:13:43.223Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d3b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "d1d46343-4a94-42a3-9cf7-2a70c69f1a15",
+    "originalText": "               3.Return Type  +Object\t\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.228Z",
+    "updatedAt": "2025-08-08T17:13:43.228Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660de3",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "beba297c-b713-4847-a7cf-e08c48d9b448",
+    "originalText": "               padding-box  => width: content\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.328Z",
+    "updatedAt": "2025-08-08T17:13:43.328Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d17",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "b86e3fac-c24a-4b91-be03-3e2962493fb8",
+    "originalText": "              - ko tìm thấy  => save\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.196Z",
+    "updatedAt": "2025-08-08T17:13:43.196Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d38",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "7fc97cf9-e261-4f87-b247-cee54f994be6",
+    "originalText": "              => getResultSet \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.225Z",
+    "updatedAt": "2025-08-08T17:13:43.225Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d2c",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "930d12a2-b95a-4250-8bff-1bf812ba2826",
+    "originalText": "              MutationQuery : dành cho insert, update, delete \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.216Z",
+    "updatedAt": "2025-08-08T17:13:43.216Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d29",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "efd19530-32e8-4ee2-8f45-623976b5a476",
+    "originalText": "              SelectionQuery: dành cho những câu lệnh select\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.213Z",
+    "updatedAt": "2025-08-08T17:13:43.213Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cd2",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "1bd58336-4f48-4c1c-9670-d6018ced864d",
+    "originalText": "            + new String\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.137Z",
+    "updatedAt": "2025-08-08T17:13:43.137Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cb7",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "a5edf40d-8098-4d95-8bca-a137378e51c8",
+    "originalText": "           - Phạm vi truy cập, return type: Không qtam\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.113Z",
+    "updatedAt": "2025-08-08T17:13:43.113Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cf3",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "326d95cf-d2c1-44e8-b674-64c5d19227c5",
+    "originalText": "           PK của bang này đóng vai trò vừa là fk vừa là pk của bang khác: @MapsId\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.163Z",
+    "updatedAt": "2025-08-08T17:13:43.163Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d20",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "b5a38623-a152-4781-8702-3fe4a49963fa",
+    "originalText": "          2. Thực thi: executeQuery, executeUpdate, execute \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.203Z",
+    "updatedAt": "2025-08-08T17:13:43.203Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d23",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "0fab0f9b-929e-49cb-945f-b6727f3f80a7",
+    "originalText": "          3. ResultSet => mapping => Object\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.205Z",
+    "updatedAt": "2025-08-08T17:13:43.205Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cc3",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "13c32611-1040-4c96-983b-0858de66ff34",
+    "originalText": "         - Phai ke thua ms override dc\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.122Z",
+    "updatedAt": "2025-08-08T17:13:43.122Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cc6",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "888fdb5d-9e3b-4185-9601-003ec5cbee8e",
+    "originalText": "         - access modifier cua con >=cha\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.128Z",
+    "updatedAt": "2025-08-08T17:13:43.128Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cc9",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "e2a7a965-143d-4ecb-919c-6ea6a5504b36",
+    "originalText": "         - return type  + primitive phai going\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.130Z",
+    "updatedAt": "2025-08-08T17:13:43.130Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d14",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "0a624d0a-05ea-419e-9046-ac8339ad3b28",
+    "originalText": "       merge: - nếu tìm thấy => update\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.194Z",
+    "updatedAt": "2025-08-08T17:13:43.194Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d26",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "6fa9a2ee-7db3-49fc-9def-12a57a24795f",
+    "originalText": "    Hibernate:  1. Tạo câu lệnh truy vấn \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.210Z",
+    "updatedAt": "2025-08-08T17:13:43.210Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d1d",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "61e7dee6-08b4-4fc5-aac4-4a0cb7d5a4af",
+    "originalText": "    JDBC: 1. Tạo câu lệnh truy vấn:   Statement, PrepareStatement, CallableStatement\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.200Z",
+    "updatedAt": "2025-08-08T17:13:43.200Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cfc",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "f2f0d3c9-c8ec-4c41-aca6-86da34af1786",
+    "originalText": "   + Eager: OneToOne, ManyToOne\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.172Z",
+    "updatedAt": "2025-08-08T17:13:43.172Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cf9",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "37c5842f-59c8-4153-95c7-8c391903f3aa",
+    "originalText": "   + Lazy: OneToMany, ManyToMany \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.170Z",
+    "updatedAt": "2025-08-08T17:13:43.170Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cff",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "44e63730-9cd7-4d89-b4a7-846ba0e0cb5c",
+    "originalText": "   + Proxy Object \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.174Z",
+    "updatedAt": "2025-08-08T17:13:43.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d0b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "e1d87da3-6a6a-4f67-8023-fc83a36cf61d",
+    "originalText": "   + first level cache\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.183Z",
+    "updatedAt": "2025-08-08T17:13:43.183Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d02",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "20ce46ba-1ce8-4071-808d-87453a409828",
+    "originalText": "   + lazyinitializationexception\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.176Z",
+    "updatedAt": "2025-08-08T17:13:43.176Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d08",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "3c2a2084-b93b-4799-8850-a2a4402563f6",
+    "originalText": "   + status: transient, remove, deteched, persist\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.181Z",
+    "updatedAt": "2025-08-08T17:13:43.181Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660ce7",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "f92eb806-1e55-4870-8353-a449d06b5c14",
+    "originalText": "  + @OneToMany, \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.155Z",
+    "updatedAt": "2025-08-08T17:13:43.155Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cea",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "ec434a74-e4a7-4e69-8abf-6559ac62aad0",
+    "originalText": "  + ManyToMany: @EmbededId + @Embededable\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.157Z",
+    "updatedAt": "2025-08-08T17:13:43.157Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cde",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "d2080746-0f48-4da3-909d-98432f70702f",
+    "originalText": "  @Nationalized, @GenerateValue\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.149Z",
+    "updatedAt": "2025-08-08T17:13:43.149Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d11",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "85029580-aaba-4866-88e3-c45d1ed83d24",
+    "originalText": "+ API: persist, remove\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.191Z",
+    "updatedAt": "2025-08-08T17:13:43.191Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d1a",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "8efd7835-5530-4034-954b-570bb4d2c621",
+    "originalText": "+ HQL: Hibernate Query Language\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.198Z",
+    "updatedAt": "2025-08-08T17:13:43.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cf0",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "5edf6234-3e1e-4e06-a20b-a145ca695fb6",
+    "originalText": "+OneToOne: tạo fk going OneToMany và them lệnh unique vào pk\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.161Z",
+    "updatedAt": "2025-08-08T17:13:43.161Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cdb",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "a600d6f9-9106-4a53-9764-93be19e2abf2",
+    "originalText": "- @Entity, @Id, @Table, @Column, @CurrentTimeStamp, @Enumerate\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.146Z",
+    "updatedAt": "2025-08-08T17:13:43.146Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660ce1",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "40503677-8a04-4745-86fb-bca4924d61e0",
+    "originalText": "- Contraint: not null, unique, check: @Check, default, pk, fk\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.151Z",
+    "updatedAt": "2025-08-08T17:13:43.151Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dcb",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "f3fd7314-f5aa-4051-b598-04aa37baa2bd",
+    "originalText": "- Các property text vs background-color sẽ tự động \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.315Z",
+    "updatedAt": "2025-08-08T17:13:43.315Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cf6",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "0716ee03-f0d2-4ca2-906d-744e2944599b",
+    "originalText": "- Eager Lazy: \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.168Z",
+    "updatedAt": "2025-08-08T17:13:43.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d05",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "b9170a86-725d-4e8c-8bf2-1fff7102b781",
+    "originalText": "- Persistance Context: \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.179Z",
+    "updatedAt": "2025-08-08T17:13:43.179Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660ce4",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "5a7e417c-cd70-4f25-a6a5-0577bda21c2a",
+    "originalText": "- Relationship: \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.153Z",
+    "updatedAt": "2025-08-08T17:13:43.153Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dd7",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "52cc6bb4-4353-49d9-baa9-d8a5321e14a4",
+    "originalText": "- border\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.321Z",
+    "updatedAt": "2025-08-08T17:13:43.321Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cd8",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "f302a116-f099-411e-8c76-695272d00fdf",
+    "originalText": "- config xml\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.142Z",
+    "updatedAt": "2025-08-08T17:13:43.142Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dd1",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "6b9dacb8-9853-41ed-81ca-4f8afb37e570",
+    "originalText": "- content: nội dung của element\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.318Z",
+    "updatedAt": "2025-08-08T17:13:43.318Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d77",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "38639e47-cc65-4d23-ab30-677989878c6a",
+    "originalText": "- ko margin top bot được\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.265Z",
+    "updatedAt": "2025-08-08T17:13:43.265Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d74",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "c8d06d73-17d6-4aac-a495-29472952c475",
+    "originalText": "- ko set được width vs height\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.264Z",
+    "updatedAt": "2025-08-08T17:13:43.264Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d92",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "d0cb29d5-1f9a-42e8-b6db-146be2bbc5ab",
+    "originalText": "- link to email\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.281Z",
+    "updatedAt": "2025-08-08T17:13:43.281Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d95",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "1e4cd627-5782-4d16-8946-10b19e8200f0",
+    "originalText": "- link to phone\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.282Z",
+    "updatedAt": "2025-08-08T17:13:43.282Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d8f",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "84c80f73-5145-4e95-8f32-5585881f81a9",
+    "originalText": "- link to position\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.280Z",
+    "updatedAt": "2025-08-08T17:13:43.280Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d8c",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "9ed70fa0-c9c4-405a-a88a-b1d7453639da",
+    "originalText": "- link to url\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.279Z",
+    "updatedAt": "2025-08-08T17:13:43.279Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dda",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "653f210c-74ca-4187-84c6-11c87d27f3ac",
+    "originalText": "- margin\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.322Z",
+    "updatedAt": "2025-08-08T17:13:43.322Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d7d",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "7b5a0d65-d900-46e7-8818-1887c7a4f931",
+    "originalText": "- nằm khác dòng\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.267Z",
+    "updatedAt": "2025-08-08T17:13:43.267Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d6e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "6e0613af-60fa-4c65-98f1-c3a1f43998f9",
+    "originalText": "- nằm trên cùng 1 dòng\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.261Z",
+    "updatedAt": "2025-08-08T17:13:43.261Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dd4",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "8d9989bb-efb4-4e4b-aed9-4d72703dce2f",
+    "originalText": "- padding: \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.319Z",
+    "updatedAt": "2025-08-08T17:13:43.319Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d83",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "56cc17c4-d32d-4d86-9dcd-70c55c615cca",
+    "originalText": "- set được width vs height\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.273Z",
+    "updatedAt": "2025-08-08T17:13:43.273Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d80",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "1a7834e3-196c-4f18-ad26-afb271e4436d",
+    "originalText": "- width: 100% parent \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.272Z",
+    "updatedAt": "2025-08-08T17:13:43.272Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d71",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "eb5a5de9-a783-49cb-824d-fef034cec878",
+    "originalText": "- width: bằng kích thước content \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.262Z",
+    "updatedAt": "2025-08-08T17:13:43.262Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dc5",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "f550b5fc-f788-4c20-9a2e-973bf3c11d3f",
+    "originalText": "-attribute selector\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.309Z",
+    "updatedAt": "2025-08-08T17:13:43.309Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dbf",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "c27472aa-b231-4d17-a277-33f74b677b97",
+    "originalText": "-compile selector: parent > child thể hiẹn mqh giữa cac thể\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.305Z",
+    "updatedAt": "2025-08-08T17:13:43.305Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660da1",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "456da101-b7ed-49ea-b0ff-1fe2a26487bb",
+    "originalText": "-dl\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.288Z",
+    "updatedAt": "2025-08-08T17:13:43.288Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660db6",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "a4d5ea56-d6f1-40c3-be4b-823491bee920",
+    "originalText": "-inline > internal ,external\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.301Z",
+    "updatedAt": "2025-08-08T17:13:43.301Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d9b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "9411a84e-2d4b-439a-bcad-9dad42dee68c",
+    "originalText": "-ol\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.286Z",
+    "updatedAt": "2025-08-08T17:13:43.286Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dc2",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "686e6aae-d48e-45bc-a89f-38005f7630d6",
+    "originalText": "-pseudo class, pseudo element\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.307Z",
+    "updatedAt": "2025-08-08T17:13:43.307Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dbc",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "c7e6274f-2b38-40b8-a782-ba918acfe127",
+    "originalText": "-simple selector: id, class, tagName\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.304Z",
+    "updatedAt": "2025-08-08T17:13:43.304Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660da7",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "671c45d9-4a54-4f4a-a818-c3206e2f66c2",
+    "originalText": "-table > tbody, thead, tfooter > td,th\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.295Z",
+    "updatedAt": "2025-08-08T17:13:43.295Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d9e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "4bfb0b98-f48f-4f74-814d-f1c77813b8cd",
+    "originalText": "-ul\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.287Z",
+    "updatedAt": "2025-08-08T17:13:43.287Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660c93",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "2c4dc3a1-e848-4b05-aebc-376b4bc00d16",
+    "originalText": "//wrapper class\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.078Z",
+    "updatedAt": "2025-08-08T17:13:43.078Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dce",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "5d3de55a-3e25-4a35-8fca-c4c8723c71fa",
+    "originalText": "1. Box-model \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.316Z",
+    "updatedAt": "2025-08-08T17:13:43.316Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d62",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "e3307036-83e3-4f94-bff3-1c9a80ece671",
+    "originalText": "1. HTML?\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.254Z",
+    "updatedAt": "2025-08-08T17:13:43.254Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cd5",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "335e840a-dade-46da-918c-223481d408d5",
+    "originalText": "1. Mapping\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.139Z",
+    "updatedAt": "2025-08-08T17:13:43.139Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660db3",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "c5ca2f07-f5ba-4d9b-ba20-ef3cb073c572",
+    "originalText": "1.Link Css\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.300Z",
+    "updatedAt": "2025-08-08T17:13:43.300Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d65",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "2fef3f98-f97c-4630-9cf4-c9dc64ba81b4",
+    "originalText": "2. Head => chứa các metadata\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.256Z",
+    "updatedAt": "2025-08-08T17:13:43.256Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660db9",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "60819d4c-e131-4c33-9a9d-20d4849f91bd",
+    "originalText": "2. Selector\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.302Z",
+    "updatedAt": "2025-08-08T17:13:43.302Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dc8",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "cd036638-547f-475c-9cb3-15319c849bff",
+    "originalText": "3. Inherit\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.313Z",
+    "updatedAt": "2025-08-08T17:13:43.313Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d68",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "c4578547-7dad-4b7c-8e43-15b3d0270964",
+    "originalText": "3. Inline vs block?\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.258Z",
+    "updatedAt": "2025-08-08T17:13:43.258Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d86",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "94ee7ffb-17a6-40aa-8e9f-fd5371074403",
+    "originalText": "4. Semantic vs non-semantic?\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.275Z",
+    "updatedAt": "2025-08-08T17:13:43.275Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d89",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "ed14f9a0-ef9e-4b4b-9b70-6a7dd3b15abc",
+    "originalText": "5. link \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.277Z",
+    "updatedAt": "2025-08-08T17:13:43.277Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d98",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "949e6d77-5c05-4453-b733-f74d1229f0f4",
+    "originalText": "6.List\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.284Z",
+    "updatedAt": "2025-08-08T17:13:43.284Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660da4",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "64928076-5a6f-4591-8ab0-a7f161e0f465",
+    "originalText": "7. table\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.293Z",
+    "updatedAt": "2025-08-08T17:13:43.293Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660daa",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "6fd9da55-ed6a-493e-aa6f-041ad9fae136",
+    "originalText": "8. \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.297Z",
+    "updatedAt": "2025-08-08T17:13:43.297Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660de0",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "dccc4f72-579b-4dab-a7f7-4b47dc4d3e52",
+    "originalText": "=> box-sizing: border-box  => width: content+padding+border\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.326Z",
+    "updatedAt": "2025-08-08T17:13:43.326Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660ddd",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "c9499656-4fb0-4514-9997-1daad789ebf0",
+    "originalText": "=> kích thước element: content+ padding+ border\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.324Z",
+    "updatedAt": "2025-08-08T17:13:43.324Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660de6",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "8cb68f18-d110-4bc3-a79b-847da5b9af2d",
+    "originalText": "=> margin collapse: nếu nằm theo chiều dọc margin nào lớn hơn lấy thằng đấy",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.329Z",
+    "updatedAt": "2025-08-08T17:13:43.329Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d53",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "4fa52ad6-39ab-43bc-aac7-f03df0596335",
+    "originalText": "@Isbn @Email @Pattern(regexp=\" \")\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.242Z",
+    "updatedAt": "2025-08-08T17:13:43.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d7a",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "67775e8f-40d0-4a9c-9cfb-9aa275ab92f2",
+    "originalText": "Block\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.266Z",
+    "updatedAt": "2025-08-08T17:13:43.266Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660db0",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "cb278f91-f831-4bb3-8315-f101db2ed670",
+    "originalText": "CSS\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.299Z",
+    "updatedAt": "2025-08-08T17:13:43.299Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d4a",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "e0798ff1-d660-4698-b40b-1ac84a187e32",
+    "originalText": "Collection: @Size\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.237Z",
+    "updatedAt": "2025-08-08T17:13:43.237Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d50",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "3aff1f2f-f91b-4c2e-a1df-e6b580ef0d1b",
+    "originalText": "Date: @Future  @Past\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.240Z",
+    "updatedAt": "2025-08-08T17:13:43.240Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d5f",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "8bdfa826-0440-41a4-86d4-eced74fe9f79",
+    "originalText": "EsLint\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.251Z",
+    "updatedAt": "2025-08-08T17:13:43.251Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d6b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "620f6635-b3b1-41c9-8d82-5babe21658bd",
+    "originalText": "Inline:\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.259Z",
+    "updatedAt": "2025-08-08T17:13:43.259Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660c96",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "53f37d75-5e81-47c6-9356-b6458574392f",
+    "originalText": "Interger i=10; //Autoboxing\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.080Z",
+    "updatedAt": "2025-08-08T17:13:43.080Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cba",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "3b916cc3-4f6c-406e-bb1e-b1b4081fb00a",
+    "originalText": "Method resolving   -Xd primitive trc\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.114Z",
+    "updatedAt": "2025-08-08T17:13:43.114Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d4d",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "5366b049-baa3-4275-bd36-e36adaa7d679",
+    "originalText": "Number: @Max, @Min , @Range, @Negative, @Positive\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.239Z",
+    "updatedAt": "2025-08-08T17:13:43.239Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d56",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "df5d0672-e910-4c82-986b-0840beffc1c6",
+    "originalText": "Object: @NotNull\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.244Z",
+    "updatedAt": "2025-08-08T17:13:43.244Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cb4",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "802bafaf-648e-4753-b362-37389d8582f4",
+    "originalText": "OverLoad   - Tham số: Khác số luợngg, thứ tự, kiểu\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.110Z",
+    "updatedAt": "2025-08-08T17:13:43.110Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cc0",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "86e5e877-e6ba-4d78-a194-06d72315084c",
+    "originalText": "Overeide - @Override\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.119Z",
+    "updatedAt": "2025-08-08T17:13:43.119Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d5c",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "ede80d33-1fc0-4174-89a4-2bc3e7639518",
+    "originalText": "Prettier\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.248Z",
+    "updatedAt": "2025-08-08T17:13:43.248Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d0e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "6c128c2f-60aa-462f-9e1a-cc68a33bf766",
+    "originalText": "Query:\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.187Z",
+    "updatedAt": "2025-08-08T17:13:43.187Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660ccf",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "c8442861-6ee1-4179-a784-30c37db25621",
+    "originalText": "String init +String literal\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.135Z",
+    "updatedAt": "2025-08-08T17:13:43.135Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d47",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "c6de3026-75ae-4dc0-b37c-237e29c45476",
+    "originalText": "Text: @NotEmpty, @NotBlank, @Length, @Size\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.236Z",
+    "updatedAt": "2025-08-08T17:13:43.236Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660ca8",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "0002ab67-ecb0-49da-a820-527a4b93cdc2",
+    "originalText": "Tính kế thừa protected chỉ thằng con truy cập\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.098Z",
+    "updatedAt": "2025-08-08T17:13:43.098Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cb1",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "8f87638c-09af-4fb6-85e1-cb08114d03c9",
+    "originalText": "Tính đa hình\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.108Z",
+    "updatedAt": "2025-08-08T17:13:43.108Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cae",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "52dbe450-1508-4f8d-b611-d18815e4bec6",
+    "originalText": "Tính đóng gói \r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.105Z",
+    "updatedAt": "2025-08-08T17:13:43.105Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660d59",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "9d4137dc-4e55-4b69-a665-33beadb61880",
+    "originalText": "Visual Studio cài\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.245Z",
+    "updatedAt": "2025-08-08T17:13:43.245Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660c8d",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "eaa4d374-26f1-42e0-b8b6-6ce21072cf56",
+    "originalText": "double d =10;\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.072Z",
+    "updatedAt": "2025-08-08T17:13:43.072Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660c87",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "2cd48fb6-85f5-4c4f-96c8-9e89d49bb52f",
+    "originalText": "float f = 10; //implicit casting\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.067Z",
+    "updatedAt": "2025-08-08T17:13:43.067Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660c90",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "f3f21ad8-230c-4278-974d-f1f61ccea194",
+    "originalText": "float f2 = (float) 10.0; // explicit casting\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.076Z",
+    "updatedAt": "2025-08-08T17:13:43.076Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660dad",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "901be935-cb91-47b1-bfe9-002ed85a9ea0",
+    "originalText": "form > input [type =text, number, email, password, radio, checkbox,...], label, select\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.298Z",
+    "updatedAt": "2025-08-08T17:13:43.298Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660c84",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "cfe418c3-ffd5-48cf-9c69-12634b5cbcc4",
+    "originalText": "int a = 10;\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.064Z",
+    "updatedAt": "2025-08-08T17:13:43.064Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660ca5",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "a5922c95-e5ec-4ba4-bc92-c3fac4bd9b98",
+    "originalText": "int a; // local variable\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.096Z",
+    "updatedAt": "2025-08-08T17:13:43.096Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660c99",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "a193d039-4651-4dec-be84-b28a28f46fae",
+    "originalText": "int i2= i; //unboxing\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.086Z",
+    "updatedAt": "2025-08-08T17:13:43.086Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660c8a",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "f8b7cb9e-6749-4704-a2f4-e50965cdc2d5",
+    "originalText": "long l = 12_000_000_000l;\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.069Z",
+    "updatedAt": "2025-08-08T17:13:43.069Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660c9c",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "7a7664a8-d714-4139-981d-b424418bbb52",
+    "originalText": "public String name; //instance variable\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.089Z",
+    "updatedAt": "2025-08-08T17:13:43.089Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660c9f",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "1b1504bb-311a-4340-92c3-091c90751ffa",
+    "originalText": "public static int count; //static variable\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.091Z",
+    "updatedAt": "2025-08-08T17:13:43.091Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660ca2",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "85f3dc93-53c2-45f2-8573-905ef6a43510",
+    "originalText": "public static void main(String[] args){ //parameter variable\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.093Z",
+    "updatedAt": "2025-08-08T17:13:43.093Z",
+    "__v": 0
+  },
+  {
+    "_id": "68963047c987f0d9cf660cab",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "12",
+    "manifestEntryId": "fabf1bb4-662d-4e3b-adcd-c431314727f0",
+    "originalText": "super(); //cha\r",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:43.100Z",
+    "updatedAt": "2025-08-08T17:13:43.100Z",
+    "__v": 0
+  }
+]
