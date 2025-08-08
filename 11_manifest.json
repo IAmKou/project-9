@@ -1,0 +1,3262 @@
+[
+  {
+    "_id": "6896302ec987f0d9cf660ada",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "8b722520-d60a-405a-9fee-0ef4fb8671bf",
+    "originalText": "                              FOREIGN KEY (project_id) REFERENCES project(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.748Z",
+    "updatedAt": "2025-08-08T17:13:18.748Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ad1",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "7c7225ba-92d7-499b-8d72-9781abe032e2",
+    "originalText": "                              id INT AUTO_INCREMENT PRIMARY KEY,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.738Z",
+    "updatedAt": "2025-08-08T17:13:18.738Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ad4",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "1cb1d631-0ee4-4b14-9d55-dc4663210738",
+    "originalText": "                              name VARCHAR(255),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.741Z",
+    "updatedAt": "2025-08-08T17:13:18.741Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ad7",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "cf6017df-7222-4929-a6fe-c1c2f0635fbe",
+    "originalText": "                              project_id BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.745Z",
+    "updatedAt": "2025-08-08T17:13:18.745Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bd4",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "ee0eba0a-9bc4-456f-834e-9e73c1eb40fc",
+    "originalText": "                            FOREIGN KEY (userId) REFERENCES user(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.924Z",
+    "updatedAt": "2025-08-08T17:13:18.924Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bd1",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "cdcf407d-29ed-48c0-a200-d24b8a83deb4",
+    "originalText": "                            createdAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.923Z",
+    "updatedAt": "2025-08-08T17:13:18.923Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bc5",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "67912538-5e42-44ee-b019-744ee3f92d11",
+    "originalText": "                            id BIGINT PRIMARY KEY AUTO_INCREMENT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.917Z",
+    "updatedAt": "2025-08-08T17:13:18.917Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bce",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "edb70c09-76b4-45b3-b711-55eabe892961",
+    "originalText": "                            message TEXT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.922Z",
+    "updatedAt": "2025-08-08T17:13:18.922Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bcb",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "c5b5ef7d-cf36-47f0-a161-1ba760c299f5",
+    "originalText": "                            type VARCHAR(50) NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.920Z",
+    "updatedAt": "2025-08-08T17:13:18.920Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bc8",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "e9b0b662-302b-4bff-a936-2077a225b523",
+    "originalText": "                            userId BIGINT NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.919Z",
+    "updatedAt": "2025-08-08T17:13:18.919Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c58",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "dcb1bf02-9c5b-4662-b772-24ffeff4f355",
+    "originalText": "                           FOREIGN KEY (fromUserId) REFERENCES user(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.014Z",
+    "updatedAt": "2025-08-08T17:13:19.014Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b91",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "1569519d-c1c6-497c-a486-2600c09f8e19",
+    "originalText": "                           FOREIGN KEY (groupId) REFERENCES project_groups(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.884Z",
+    "updatedAt": "2025-08-08T17:13:18.884Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ac3",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "bef530a6-2c84-4923-8e41-2a460720cf92",
+    "originalText": "                           FOREIGN KEY (projectId) REFERENCES project(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.724Z",
+    "updatedAt": "2025-08-08T17:13:18.724Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c5b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "32607be2-0cb3-4465-b19a-0b0473e98dba",
+    "originalText": "                           FOREIGN KEY (toUserId) REFERENCES user(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.016Z",
+    "updatedAt": "2025-08-08T17:13:19.016Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ac6",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "acfe04aa-fb15-46fd-aa38-1bba3219af45",
+    "originalText": "                           FOREIGN KEY (userId) REFERENCES user(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.727Z",
+    "updatedAt": "2025-08-08T17:13:18.886Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b96",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "b90e5be1-f7b4-4860-925f-d8416a84b315",
+    "originalText": "                           UNIQUE (groupId, userId)  -- Prevents duplicate memberships",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.887Z",
+    "updatedAt": "2025-08-08T17:13:18.887Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ac9",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "1948d882-d74d-4859-9893-9ef2f76e3f8d",
+    "originalText": "                           UNIQUE (projectId, userId) -- each user has one role per project",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.730Z",
+    "updatedAt": "2025-08-08T17:13:18.730Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b8e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "1c20b501-6ae9-4850-8f3f-078450b09cb4",
+    "originalText": "                           addedAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.882Z",
+    "updatedAt": "2025-08-08T17:13:18.882Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c49",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "6cd26e8e-121d-4555-af11-59b87083bed7",
+    "originalText": "                           amount DECIMAL(12,2) NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.006Z",
+    "updatedAt": "2025-08-08T17:13:19.006Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c52",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "e5c57b23-bd64-4025-a6a2-49fe5d0a8d23",
+    "originalText": "                           createdAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.010Z",
+    "updatedAt": "2025-08-08T17:13:19.010Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c43",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "4613a56b-ec3e-47e3-9bdf-945a733c62b1",
+    "originalText": "                           fromUserId BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.003Z",
+    "updatedAt": "2025-08-08T17:13:19.003Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b89",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "5ed4805f-e449-4b63-ae46-c5a2c29d8d01",
+    "originalText": "                           groupId INT NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.879Z",
+    "updatedAt": "2025-08-08T17:13:18.879Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ab7",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "687046d6-6f3f-402a-abd9-1cbad440a16e",
+    "originalText": "                           id BIGINT PRIMARY KEY AUTO_INCREMENT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.714Z",
+    "updatedAt": "2025-08-08T17:13:19.001Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660aba",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "e2db9e7a-7579-4f32-822a-1ed3128ea5da",
+    "originalText": "                           projectId BIGINT NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.716Z",
+    "updatedAt": "2025-08-08T17:13:18.716Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ac0",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "dbc1cfb0-de80-4333-97b3-b5af4e1e39e4",
+    "originalText": "                           role ENUM('OWNER','TRANSLATOR','OBSERVER') NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.721Z",
+    "updatedAt": "2025-08-08T17:13:18.721Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c4f",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "b9e42ee6-61b0-4566-ab00-36aba64664dc",
+    "originalText": "                           status ENUM('pending','approved','disputed','completed') NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.009Z",
+    "updatedAt": "2025-08-08T17:13:19.009Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c46",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "3b8923d1-9b9c-42c9-ad49-df0cb7735a2c",
+    "originalText": "                           toUserId BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.004Z",
+    "updatedAt": "2025-08-08T17:13:19.004Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c4c",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "5c4d20b3-54af-4f6b-81f4-b278be054b7a",
+    "originalText": "                           type ENUM('hold','transfer','withdraw') NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.007Z",
+    "updatedAt": "2025-08-08T17:13:19.007Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c55",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "b768dc18-093c-4e62-8f70-b6662fa9a6af",
+    "originalText": "                           updatedAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.012Z",
+    "updatedAt": "2025-08-08T17:13:19.012Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660abd",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "d52479a4-40d8-4a01-885e-5ff248c2883a",
+    "originalText": "                           userId BIGINT NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.718Z",
+    "updatedAt": "2025-08-08T17:13:18.880Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c21",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "c6221b95-e35b-4833-886e-a0d0af896a2d",
+    "originalText": "                        FOREIGN KEY (post_id) REFERENCES posts(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.977Z",
+    "updatedAt": "2025-08-08T17:13:18.977Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b7f",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "6c91da9f-dd41-48b8-a056-3ec5e3c98219",
+    "originalText": "                        FOREIGN KEY (project_id) REFERENCES project(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.872Z",
+    "updatedAt": "2025-08-08T17:13:18.872Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b7c",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "bb498f4b-606f-4cac-bbd3-6aaf741fa3a3",
+    "originalText": "                        FOREIGN KEY (requester_id) REFERENCES user(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.870Z",
+    "updatedAt": "2025-08-08T17:13:18.870Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c1e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "748c9596-4162-41ff-b9e4-52403c93c2ef",
+    "originalText": "                        FOREIGN KEY (user_id) REFERENCES user(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.975Z",
+    "updatedAt": "2025-08-08T17:13:18.975Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c19",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "2a4b6deb-f94e-48ec-a121-748162d21b45",
+    "originalText": "                        content TEXT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.972Z",
+    "updatedAt": "2025-08-08T17:13:18.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c74",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "efea94d8-fd08-4279-9f02-1304e75edb12",
+    "originalText": "                        createdAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.032Z",
+    "updatedAt": "2025-08-08T17:13:19.032Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b79",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "b06a5a8c-e1e1-4528-8f13-60dce770eb41",
+    "originalText": "                        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.867Z",
+    "updatedAt": "2025-08-08T17:13:18.974Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b70",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "4ae8ea1f-f4eb-4d88-ad77-ddf2ae49fdcd",
+    "originalText": "                        deadline DATE,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.863Z",
+    "updatedAt": "2025-08-08T17:13:18.863Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b6d",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "978cfa89-1a0e-44f0-8c86-fc83ef636e58",
+    "originalText": "                        deal_amount DECIMAL(10, 2),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.861Z",
+    "updatedAt": "2025-08-08T17:13:18.861Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b6a",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "3595cc96-fbc7-40b3-b54d-31cfd6ba68b0",
+    "originalText": "                        description TEXT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.858Z",
+    "updatedAt": "2025-08-08T17:13:19.030Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b73",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "7cd2587c-09b5-49ac-832f-533efe711ee6",
+    "originalText": "                        file_url TEXT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.864Z",
+    "updatedAt": "2025-08-08T17:13:18.864Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c10",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "89df2860-dc5c-4114-a5c3-d68834bfa777",
+    "originalText": "                        id BIGINT AUTO_INCREMENT PRIMARY KEY,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.967Z",
+    "updatedAt": "2025-08-08T17:13:18.967Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c6c",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "ffca71d8-47c7-47ee-b221-5e67680d9cf5",
+    "originalText": "                        id BIGINT PRIMARY KEY AUTO_INCREMENT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.027Z",
+    "updatedAt": "2025-08-08T17:13:19.027Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b5e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "75c84ecd-ec06-4fce-a30b-4764895c7a4f",
+    "originalText": "                        id INT AUTO_INCREMENT PRIMARY KEY,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.851Z",
+    "updatedAt": "2025-08-08T17:13:18.851Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c6f",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "ef3bf3f2-2aca-49bf-a76d-9bde036ccec5",
+    "originalText": "                        name VARCHAR(100) NOT NULL UNIQUE,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.028Z",
+    "updatedAt": "2025-08-08T17:13:19.028Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c16",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "3b21aebc-ff76-4ad9-bd1b-adc9e5cda80a",
+    "originalText": "                        post_id INT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.970Z",
+    "updatedAt": "2025-08-08T17:13:18.970Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b64",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "358d591e-79a4-4cbe-a869-1d5f7fd9c3df",
+    "originalText": "                        project_id BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.855Z",
+    "updatedAt": "2025-08-08T17:13:18.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b61",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "8e69b57c-f164-4b82-9ad2-886d5d4b0e95",
+    "originalText": "                        requester_id BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.853Z",
+    "updatedAt": "2025-08-08T17:13:18.853Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b76",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "bbfd5b45-e3de-4c77-b59f-c4df4f74855b",
+    "originalText": "                        status ENUM('PENDING', 'APPROVED', 'REJECTED', 'COMPLETED') DEFAULT 'PENDING',",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.866Z",
+    "updatedAt": "2025-08-08T17:13:18.866Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b67",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "44105c0c-6814-442e-a170-6624ea2455e4",
+    "originalText": "                        title VARCHAR(255),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.857Z",
+    "updatedAt": "2025-08-08T17:13:18.857Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c77",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "bf84cc1e-e150-4f38-b7e9-1eb311190885",
+    "originalText": "                        updatedAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.034Z",
+    "updatedAt": "2025-08-08T17:13:19.034Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c13",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "c0de42f8-4f09-4e05-ac31-3ca8f771b59c",
+    "originalText": "                        user_id BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.968Z",
+    "updatedAt": "2025-08-08T17:13:18.968Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c39",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "be3a1232-4e55-4cde-83a4-a1af5d137c58",
+    "originalText": "                       FOREIGN KEY (comment_id) REFERENCES comments(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.996Z",
+    "updatedAt": "2025-08-08T17:13:18.996Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660aac",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "74c93ad6-faa3-44fc-8bb7-95602c764499",
+    "originalText": "                       FOREIGN KEY (createdBy) REFERENCES user(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.699Z",
+    "updatedAt": "2025-08-08T17:13:18.699Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c08",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "ad142d06-7e61-457f-9c4d-e57c63fef873",
+    "originalText": "                       FOREIGN KEY (post_id) REFERENCES posts(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.959Z",
+    "updatedAt": "2025-08-08T17:13:18.959Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c36",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "e1eca895-6945-4e34-9ac3-24eaa5186b92",
+    "originalText": "                       FOREIGN KEY (reported_by) REFERENCES user(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.993Z",
+    "updatedAt": "2025-08-08T17:13:18.993Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c05",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "c2aabb81-6193-4c2d-b952-7bd001c86ada",
+    "originalText": "                       FOREIGN KEY (user_id) REFERENCES user(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.957Z",
+    "updatedAt": "2025-08-08T17:13:18.957Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c2e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "01df6f40-e084-4e28-93d9-1635f63de9c4",
+    "originalText": "                       comment_id BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.987Z",
+    "updatedAt": "2025-08-08T17:13:18.987Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660aa9",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "07b7609c-34d4-49b6-945e-bbf823fcd50a",
+    "originalText": "                       createdAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.697Z",
+    "updatedAt": "2025-08-08T17:13:18.697Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660aa6",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "a9faa9d3-6e9c-444f-a94d-a604381f5556",
+    "originalText": "                       createdBy BIGINT NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.694Z",
+    "updatedAt": "2025-08-08T17:13:18.694Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c02",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "de810fb8-b410-484d-8174-50e1e094ee8a",
+    "originalText": "                       created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.955Z",
+    "updatedAt": "2025-08-08T17:13:18.990Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660aa3",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "918dae87-e5c9-407c-a09a-be7bea5777b3",
+    "originalText": "                       description TEXT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.692Z",
+    "updatedAt": "2025-08-08T17:13:18.692Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a9d",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "850818f9-6a2e-4407-bd2a-5a3fe55bba2b",
+    "originalText": "                       id BIGINT PRIMARY KEY AUTO_INCREMENT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.688Z",
+    "updatedAt": "2025-08-08T17:13:18.688Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bf6",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "f3f8fef9-65b7-493e-b787-4ba81da957d5",
+    "originalText": "                       id INT AUTO_INCREMENT PRIMARY KEY,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.945Z",
+    "updatedAt": "2025-08-08T17:13:18.983Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660aa0",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "871185f3-a80a-44a7-b6bf-1f0276777944",
+    "originalText": "                       name VARCHAR(255) NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.690Z",
+    "updatedAt": "2025-08-08T17:13:18.690Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bfc",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "12b5a178-8a02-4a82-b70a-221a7577a5e1",
+    "originalText": "                       post_id INT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.949Z",
+    "updatedAt": "2025-08-08T17:13:18.949Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c2b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "c11145b9-beb4-42bb-80da-4b234b55ecbc",
+    "originalText": "                       reported_by BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.985Z",
+    "updatedAt": "2025-08-08T17:13:18.985Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bff",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "d4af1920-2163-47c3-b759-946621c41010",
+    "originalText": "                       score TINYINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.952Z",
+    "updatedAt": "2025-08-08T17:13:18.952Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c31",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "696a821d-2a76-4915-ae8e-b895dfb16d5b",
+    "originalText": "                       status ENUM('NEW','REVIEWED','CANCELLED') DEFAULT 'NEW',",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.989Z",
+    "updatedAt": "2025-08-08T17:13:18.989Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bf9",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "11a8ca71-fb70-4959-a454-0c461ea56f1e",
+    "originalText": "                       user_id BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.947Z",
+    "updatedAt": "2025-08-08T17:13:18.947Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bba",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "832e7647-a9de-47d9-b167-b52d3f27ce52",
+    "originalText": "                      FOREIGN KEY (authorId) REFERENCES user(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.911Z",
+    "updatedAt": "2025-08-08T17:13:18.911Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bb7",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "b3ed6930-eca9-43ad-8c97-f8332ae7da83",
+    "originalText": "                      FOREIGN KEY (branchId) REFERENCES branch(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.908Z",
+    "updatedAt": "2025-08-08T17:13:18.908Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660af4",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "56996c5d-e6f2-463a-8058-524c30bc684a",
+    "originalText": "                      FOREIGN KEY (createdBy) REFERENCES user(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.770Z",
+    "updatedAt": "2025-08-08T17:13:18.770Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660af1",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "81f1f16c-a7fd-4370-8590-e2fd1ed3ebe1",
+    "originalText": "                      FOREIGN KEY (projectId) REFERENCES project(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.766Z",
+    "updatedAt": "2025-08-08T17:13:18.766Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bac",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "387950ea-a7d5-44e9-ab0d-b2dbc9c76d38",
+    "originalText": "                      authorId BIGINT NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.902Z",
+    "updatedAt": "2025-08-08T17:13:18.902Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ba6",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "7c3b27d1-fbbb-4a22-94a7-72262727f5bd",
+    "originalText": "                      branchId BIGINT NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.898Z",
+    "updatedAt": "2025-08-08T17:13:18.898Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bb2",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "64fa4124-a6aa-465f-a39a-c1d40fd8ac4e",
+    "originalText": "                      content_snapshot TEXT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.905Z",
+    "updatedAt": "2025-08-08T17:13:18.905Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660aee",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "649e961f-7488-43e7-85b7-f53fa10ad6bb",
+    "originalText": "                      createdAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.762Z",
+    "updatedAt": "2025-08-08T17:13:18.907Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660aeb",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "8515027a-1b70-46ab-aa13-aeb50d189b2d",
+    "originalText": "                      createdBy BIGINT NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.761Z",
+    "updatedAt": "2025-08-08T17:13:18.761Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ae2",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "232da2d5-da6c-4757-b762-0ef3a021efa6",
+    "originalText": "                      id BIGINT PRIMARY KEY AUTO_INCREMENT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.755Z",
+    "updatedAt": "2025-08-08T17:13:18.896Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660baf",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "4fde46f8-57e2-42aa-895e-05df6a29490a",
+    "originalText": "                      message TEXT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.904Z",
+    "updatedAt": "2025-08-08T17:13:18.904Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ae8",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "5431f74d-b31e-439a-897c-5de4978061c2",
+    "originalText": "                      name VARCHAR(100) NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.759Z",
+    "updatedAt": "2025-08-08T17:13:18.759Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ae5",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "14f6e355-e053-4457-928d-9672278bc0cd",
+    "originalText": "                      projectId BIGINT NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.756Z",
+    "updatedAt": "2025-08-08T17:13:18.756Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ba9",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "ad5f1d3e-817a-4096-a987-6bffa7c226c7",
+    "originalText": "                      project_id BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.900Z",
+    "updatedAt": "2025-08-08T17:13:18.900Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bee",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "56a2e905-2992-4af2-8862-e1f0d52ac642",
+    "originalText": "                     FOREIGN KEY (user_id) REFERENCES user(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.940Z",
+    "updatedAt": "2025-08-08T17:13:18.940Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660be5",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "6672539d-15e9-4a5b-8057-c0fd2269d0c9",
+    "originalText": "                     content TEXT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.936Z",
+    "updatedAt": "2025-08-08T17:13:18.936Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660beb",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "6b3ef098-d380-47ce-8e68-4702d2b0ca99",
+    "originalText": "                     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.939Z",
+    "updatedAt": "2025-08-08T17:13:18.939Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bdf",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "667ef5be-d2e5-4633-a6cd-dec3d88a9646",
+    "originalText": "                     id INT AUTO_INCREMENT PRIMARY KEY,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.933Z",
+    "updatedAt": "2025-08-08T17:13:18.933Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660be2",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "3c8ef783-b245-412a-977c-c8697f8a08e8",
+    "originalText": "                     user_id BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.934Z",
+    "updatedAt": "2025-08-08T17:13:18.934Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660be8",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "f2424457-4d9d-4140-b0be-8913dbfb355a",
+    "originalText": "                     visibility ENUM('VISIBLE','HIDDEN') DEFAULT 'VISIBLE',",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.937Z",
+    "updatedAt": "2025-08-08T17:13:18.937Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b4d",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "cda195f7-828e-4c7b-9fed-f91900df1310",
+    "originalText": "                    FOREIGN KEY (assignedTo) REFERENCES user(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.838Z",
+    "updatedAt": "2025-08-08T17:13:18.838Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b20",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "a93dcba6-abe9-411c-9352-11bf868386a0",
+    "originalText": "                    FOREIGN KEY (branchId) REFERENCES branch(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.801Z",
+    "updatedAt": "2025-08-08T17:13:18.801Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b50",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "c55968e9-b0db-4294-8224-5d6967b6616c",
+    "originalText": "                    FOREIGN KEY (createdBy) REFERENCES user(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.839Z",
+    "updatedAt": "2025-08-08T17:13:18.839Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b1d",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "2c508d53-54bc-4163-b49f-fa0ce231af92",
+    "originalText": "                    FOREIGN KEY (projectId) REFERENCES project(id),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.800Z",
+    "updatedAt": "2025-08-08T17:13:18.800Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b23",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "c249d35b-d5f7-48fd-b6af-ed0c30ef6c9f",
+    "originalText": "                    FOREIGN KEY (uploaderId) REFERENCES user(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.804Z",
+    "updatedAt": "2025-08-08T17:13:18.804Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b3f",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "043d1df6-e2bb-4889-ac7b-badc3624fc9a",
+    "originalText": "                    assignedTo BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.826Z",
+    "updatedAt": "2025-08-08T17:13:18.826Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b05",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "e0f88f1e-c8d5-4b9e-a2a0-587defc71b75",
+    "originalText": "                    branchId BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.782Z",
+    "updatedAt": "2025-08-08T17:13:18.782Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b14",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "da2af6fc-df15-4104-b882-996260118867",
+    "originalText": "                    compiledContent LONGBLOB,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.794Z",
+    "updatedAt": "2025-08-08T17:13:18.794Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b17",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "f0999d37-d76e-4caf-9fe4-d50060be4a45",
+    "originalText": "                    createdAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.796Z",
+    "updatedAt": "2025-08-08T17:13:18.836Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b45",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "147f128e-eb3e-4a0a-a2c6-279e054ed67b",
+    "originalText": "                    createdBy BIGINT NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.833Z",
+    "updatedAt": "2025-08-08T17:13:18.833Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b39",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "e7f65fb4-c357-4382-af64-5fc2b4e5d415",
+    "originalText": "                    description TEXT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.822Z",
+    "updatedAt": "2025-08-08T17:13:18.822Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b48",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "a62a89ff-4499-4b39-adb6-6ded28492b2f",
+    "originalText": "                    dueDate DATE,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.835Z",
+    "updatedAt": "2025-08-08T17:13:18.835Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b11",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "1f540f0d-399f-4c77-80c2-99d9faee7928",
+    "originalText": "                    fileContent LONGBLOB,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.792Z",
+    "updatedAt": "2025-08-08T17:13:18.792Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b0b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "3b253c81-0d2a-434b-8bef-d05908522d4b",
+    "originalText": "                    fileName VARCHAR(255) NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.787Z",
+    "updatedAt": "2025-08-08T17:13:18.787Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b0e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "bae41fee-2cc6-41a4-a86c-f595cee3be64",
+    "originalText": "                    fileType VARCHAR(50),",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.790Z",
+    "updatedAt": "2025-08-08T17:13:18.790Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b42",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "b6fe383a-4584-4db9-bf94-781e130343ee",
+    "originalText": "                    group_id INT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.830Z",
+    "updatedAt": "2025-08-08T17:13:18.830Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660aff",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "d27e3ef3-7fca-4157-935a-d0eadb2ddb5e",
+    "originalText": "                    id BIGINT PRIMARY KEY AUTO_INCREMENT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.778Z",
+    "updatedAt": "2025-08-08T17:13:18.818Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b02",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "2811796d-0eaf-4409-82b2-8f1f878f9ae5",
+    "originalText": "                    projectId BIGINT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.780Z",
+    "updatedAt": "2025-08-08T17:13:18.780Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b3c",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "863d29f7-1c12-4986-a04d-789d258b8997",
+    "originalText": "                    status ENUM('pending','in_progress','completed') NOT NULL DEFAULT 'pending',",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.823Z",
+    "updatedAt": "2025-08-08T17:13:18.823Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b36",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "77110e2f-a652-4278-a1f6-b9a867fb596f",
+    "originalText": "                    title VARCHAR(255) NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.820Z",
+    "updatedAt": "2025-08-08T17:13:18.820Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b1a",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "7b8f5043-4895-4c61-aa58-ad0fcdc91e00",
+    "originalText": "                    updatedAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.798Z",
+    "updatedAt": "2025-08-08T17:13:18.798Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b08",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "3918dcbf-99b4-44a7-a657-65bf2c4dce6c",
+    "originalText": "                    uploaderId BIGINT NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.783Z",
+    "updatedAt": "2025-08-08T17:13:18.783Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a88",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "24c0af81-0737-40ed-8c47-09280ba1eff8",
+    "originalText": "                   createdAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.670Z",
+    "updatedAt": "2025-08-08T17:13:18.670Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a76",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "b2ec7242-1dca-400c-a948-c74228ee2e0e",
+    "originalText": "                   email VARCHAR(100) NOT NULL UNIQUE,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.653Z",
+    "updatedAt": "2025-08-08T17:13:18.653Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a8b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "3edd7103-16aa-4335-9251-5f624947fe08",
+    "originalText": "                   foreign key (roleId) references role(id)",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.672Z",
+    "updatedAt": "2025-08-08T17:13:18.672Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a7f",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "84d85e00-2f8f-4538-b804-82afd81008e0",
+    "originalText": "                   fullName varchar(100) NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.662Z",
+    "updatedAt": "2025-08-08T17:13:18.662Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a70",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "8098c034-fd64-4876-8c15-96beae71f4e4",
+    "originalText": "                   id BIGINT PRIMARY KEY AUTO_INCREMENT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.646Z",
+    "updatedAt": "2025-08-08T17:13:18.646Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a67",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "d3911fe3-9d4f-49a6-9001-d8f0d9eaf7c2",
+    "originalText": "                   id INT PRIMARY KEY AUTO_INCREMENT,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.635Z",
+    "updatedAt": "2025-08-08T17:13:18.635Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a85",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "222449b9-8020-4328-991a-26f74ec3d953",
+    "originalText": "                   isActive BOOLEAN NOT NULL DEFAULT 1,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.668Z",
+    "updatedAt": "2025-08-08T17:13:18.668Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a6a",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "f4ae0746-55e5-4e65-bfc0-de38f6c25cd5",
+    "originalText": "                   name VARCHAR(50) NOT NULL UNIQUE);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.638Z",
+    "updatedAt": "2025-08-08T17:13:18.638Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a79",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "01e35b10-9b35-4105-a87b-309687a683e5",
+    "originalText": "                   passwordHash VARCHAR(255) NOT NULL,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.655Z",
+    "updatedAt": "2025-08-08T17:13:18.655Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a7c",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "52b5fbbd-67cc-42f7-96b5-841ea872f826",
+    "originalText": "                   phone varchar(50) not null unique,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.658Z",
+    "updatedAt": "2025-08-08T17:13:18.658Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a82",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "44368225-3b3e-4a1b-a013-8bd013203e3a",
+    "originalText": "                   roleId int,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.665Z",
+    "updatedAt": "2025-08-08T17:13:18.665Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a73",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "64b8dbda-9a99-4aa6-92d4-6aa3186ec42e",
+    "originalText": "                   username VARCHAR(50) NOT NULL UNIQUE,",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.649Z",
+    "updatedAt": "2025-08-08T17:13:18.649Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a8e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "3c179645-2c8b-41e9-929c-894b5089d643",
+    "originalText": ");",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.675Z",
+    "updatedAt": "2025-08-08T17:13:19.036Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660af9",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "8da7b273-85a3-442f-820a-2b3d53b08249",
+    "originalText": "CREATE INDEX idx_branch_projectId ON branch(projectId);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.775Z",
+    "updatedAt": "2025-08-08T17:13:18.775Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bbf",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "8fe74106-5862-4faf-8efa-058608a67807",
+    "originalText": "CREATE INDEX idx_commit_branchId ON commit(branchId);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.914Z",
+    "updatedAt": "2025-08-08T17:13:18.914Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b2b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "e3942ef1-fb46-42ce-a99e-9e9420e24516",
+    "originalText": "CREATE INDEX idx_file_branch ON file(branchId);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.813Z",
+    "updatedAt": "2025-08-08T17:13:18.813Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b2e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "393fb2a2-755e-460b-93a0-926c5aae72a7",
+    "originalText": "CREATE INDEX idx_file_name ON file(fileName);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.814Z",
+    "updatedAt": "2025-08-08T17:13:18.814Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b28",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "ac169682-b756-405d-b7a9-449d1372b226",
+    "originalText": "CREATE INDEX idx_file_project ON file(projectId);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.811Z",
+    "updatedAt": "2025-08-08T17:13:18.811Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b9b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "22e94a4f-48f1-4359-9a3c-927eb0d4dfa6",
+    "originalText": "CREATE INDEX idx_groupMember_groupId ON groupMember(groupId);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.892Z",
+    "updatedAt": "2025-08-08T17:13:18.892Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b9e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "a6944b6e-c4bb-4230-855c-886bfc95086d",
+    "originalText": "CREATE INDEX idx_groupMember_userId ON groupMember(userId);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.893Z",
+    "updatedAt": "2025-08-08T17:13:18.893Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bd9",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "55d6171e-84cd-4dc5-8fb7-aa3a31e9088b",
+    "originalText": "CREATE INDEX idx_notification_user ON notification(userId);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.928Z",
+    "updatedAt": "2025-08-08T17:13:18.928Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ab1",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "faf8e98b-f3e4-4462-997a-7d8049c548e9",
+    "originalText": "CREATE INDEX idx_project_name ON project(name);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.709Z",
+    "updatedAt": "2025-08-08T17:13:18.709Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b55",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "360b91a7-721b-49f5-8679-8d124d888a48",
+    "originalText": "CREATE INDEX idx_task_assignedTo ON task(assignedTo);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.843Z",
+    "updatedAt": "2025-08-08T17:13:18.843Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b58",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "d2bb9f59-1cfc-4f65-85f2-87f26df1266d",
+    "originalText": "CREATE INDEX idx_task_status ON task(status);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.845Z",
+    "updatedAt": "2025-08-08T17:13:18.845Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c60",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "2525776e-8457-4dcf-a4e5-1ce64dacc10c",
+    "originalText": "CREATE INDEX idx_transaction_from ON transaction(fromUserId);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.019Z",
+    "updatedAt": "2025-08-08T17:13:19.019Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c66",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "5ad8eeb2-c165-4532-8e06-487ccb2cf090",
+    "originalText": "CREATE INDEX idx_transaction_status ON transaction(status);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.023Z",
+    "updatedAt": "2025-08-08T17:13:19.023Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c63",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "f04169a3-e586-44ea-b637-b066c47fe1f4",
+    "originalText": "CREATE INDEX idx_transaction_to ON transaction(toUserId);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.021Z",
+    "updatedAt": "2025-08-08T17:13:19.021Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a97",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "dfb7184f-c739-48ec-888b-fe9cb2a65f33",
+    "originalText": "CREATE INDEX idx_user_active ON user(isActive);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.683Z",
+    "updatedAt": "2025-08-08T17:13:18.683Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a91",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "003a28c6-4289-418b-8d1f-d90eb5d0ff2a",
+    "originalText": "CREATE INDEX idx_user_email ON user(email);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.677Z",
+    "updatedAt": "2025-08-08T17:13:18.677Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a94",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "6133df68-33c5-4fb8-b6ba-1a85c8db5021",
+    "originalText": "CREATE INDEX idx_user_username ON user(username);",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.679Z",
+    "updatedAt": "2025-08-08T17:13:18.679Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660adf",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "be67fced-ca02-42d5-ad45-8e24ec2dedc8",
+    "originalText": "CREATE TABLE branch (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.752Z",
+    "updatedAt": "2025-08-08T17:13:18.752Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302fc987f0d9cf660c69",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "e73add21-e526-4461-b0a0-55f0ef047e09",
+    "originalText": "CREATE TABLE category (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:19.025Z",
+    "updatedAt": "2025-08-08T17:13:19.025Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c0d",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "35cf8d48-79df-495a-a809-9cbb7c774f80",
+    "originalText": "CREATE TABLE comments (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.965Z",
+    "updatedAt": "2025-08-08T17:13:18.965Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ba1",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "e5e5462c-7cd8-4966-a2bb-c78c31e4594b",
+    "originalText": "CREATE TABLE commit (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.895Z",
+    "updatedAt": "2025-08-08T17:13:18.895Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660afc",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "21506075-0b7b-4194-b927-39be9e2181bf",
+    "originalText": "CREATE TABLE file (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.777Z",
+    "updatedAt": "2025-08-08T17:13:18.777Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b84",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "17825258-be72-43ec-be18-53054eeee5ba",
+    "originalText": "CREATE TABLE groupMember (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.876Z",
+    "updatedAt": "2025-08-08T17:13:18.876Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bc2",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "2376f024-d367-4bbd-9a78-2e2a9b67c61a",
+    "originalText": "CREATE TABLE notification (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.916Z",
+    "updatedAt": "2025-08-08T17:13:18.916Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bdc",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "0c359ac7-3718-4a0e-91f7-5428b4c92b71",
+    "originalText": "CREATE TABLE posts (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.930Z",
+    "updatedAt": "2025-08-08T17:13:18.930Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a9a",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "1cb47d69-b6f5-4004-9281-a15b3ef5dff4",
+    "originalText": "CREATE TABLE project (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.686Z",
+    "updatedAt": "2025-08-08T17:13:18.686Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ab4",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "9c00094c-a8f9-42c4-8aaa-fc8f13d46c27",
+    "originalText": "CREATE TABLE projectRole (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.711Z",
+    "updatedAt": "2025-08-08T17:13:18.711Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660ace",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "5cc75128-618e-4383-b0b0-475a13ca4ae7",
+    "originalText": "CREATE TABLE project_groups (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.736Z",
+    "updatedAt": "2025-08-08T17:13:18.736Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660bf3",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "be21d306-d177-4322-8189-c73ed0ddf538",
+    "originalText": "CREATE TABLE ratings (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.943Z",
+    "updatedAt": "2025-08-08T17:13:18.943Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c26",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "736a697f-ac17-4e5e-82a5-bea389888aee",
+    "originalText": "CREATE TABLE reports (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.981Z",
+    "updatedAt": "2025-08-08T17:13:18.981Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b5b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "cae8c129-fae6-41b9-94cd-a7153596a161",
+    "originalText": "CREATE TABLE requests (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.848Z",
+    "updatedAt": "2025-08-08T17:13:18.848Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660b31",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "456d6acd-d209-45a0-ae79-607f6471e226",
+    "originalText": "CREATE TABLE task (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.816Z",
+    "updatedAt": "2025-08-08T17:13:18.816Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660c3e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "e73c721f-7e08-4446-b198-7dd4d44898ee",
+    "originalText": "CREATE TABLE transaction (",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.999Z",
+    "updatedAt": "2025-08-08T17:13:18.999Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a5e",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "678ca256-7185-4c64-a7b5-d41d31e3f3f4",
+    "originalText": "create database htt;",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.627Z",
+    "updatedAt": "2025-08-08T17:13:18.627Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a64",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "903fa554-93c9-425f-8aec-d73772c2d2d5",
+    "originalText": "create table role(",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.632Z",
+    "updatedAt": "2025-08-08T17:13:18.632Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a6d",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "663d5c66-3288-470c-a861-b7070f984619",
+    "originalText": "create table user(",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.644Z",
+    "updatedAt": "2025-08-08T17:13:18.644Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a5b",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "e9f7121b-1068-4f1b-82b3-d85f89934812",
+    "originalText": "drop database htt;",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.613Z",
+    "updatedAt": "2025-08-08T17:13:18.613Z",
+    "__v": 0
+  },
+  {
+    "_id": "6896302ec987f0d9cf660a61",
+    "projectId": "9",
+    "branchId": "9",
+    "fileId": "11",
+    "manifestEntryId": "456f20af-e84a-451d-9437-397c642f236c",
+    "originalText": "use htt;",
+    "language": "en",
+    "filePart": 0,
+    "font": "default",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "page": 1
+    },
+    "obsolete": false,
+    "createdAt": "2025-08-08T17:13:18.630Z",
+    "updatedAt": "2025-08-08T17:13:18.630Z",
+    "__v": 0
+  }
+]
